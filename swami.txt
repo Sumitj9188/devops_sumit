@@ -4,3 +4,4 @@ how are you
 new line adding 
 i am doing chamges.
 I have done changes
+we are checking regarding merge.
